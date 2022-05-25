@@ -1,1 +1,1 @@
-printf("%d",i);
+storetable
