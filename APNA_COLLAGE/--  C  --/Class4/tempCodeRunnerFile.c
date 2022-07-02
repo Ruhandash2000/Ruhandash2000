@@ -1,1 +1,1 @@
-storetable
+    fprintf(fptr, "%c", 'k');
